@@ -1,0 +1,2794 @@
+#critical ratio
+1.4
+#non-critical ratio
+1.9
+
+round: 0
+#critical ratio
+1,2
+#non-critical ratio
+3,4,5,6,7,8,9,10
+
+round: 1
+#critical ratio
+1,3
+#non-critical ratio
+2,4,5,6,7,8,9,10
+
+round: 2
+#critical ratio
+1,4
+#non-critical ratio
+2,3,5,6,7,8,9,10
+
+round: 3
+#critical ratio
+1,5
+#non-critical ratio
+2,3,4,6,7,8,9,10
+
+round: 4
+#critical ratio
+1,6
+#non-critical ratio
+2,3,4,5,7,8,9,10
+
+round: 5
+#critical ratio
+1,7
+#non-critical ratio
+2,3,4,5,6,8,9,10
+
+round: 6
+#critical ratio
+1,8
+#non-critical ratio
+2,3,4,5,6,7,9,10
+
+round: 7
+#critical ratio
+1,9
+#non-critical ratio
+2,3,4,5,6,7,8,10
+
+round: 8
+#critical ratio
+1,10
+#non-critical ratio
+2,3,4,5,6,7,8,9
+
+round: 9
+#critical ratio
+2,3
+#non-critical ratio
+1,4,5,6,7,8,9,10
+
+round: 10
+#critical ratio
+2,4
+#non-critical ratio
+1,3,5,6,7,8,9,10
+
+round: 11
+#critical ratio
+2,5
+#non-critical ratio
+1,3,4,6,7,8,9,10
+
+round: 12
+#critical ratio
+2,6
+#non-critical ratio
+1,3,4,5,7,8,9,10
+
+round: 13
+#critical ratio
+2,7
+#non-critical ratio
+1,3,4,5,6,8,9,10
+
+round: 14
+#critical ratio
+2,8
+#non-critical ratio
+1,3,4,5,6,7,9,10
+
+round: 15
+#critical ratio
+2,9
+#non-critical ratio
+1,3,4,5,6,7,8,10
+
+round: 16
+#critical ratio
+2,10
+#non-critical ratio
+1,3,4,5,6,7,8,9
+
+round: 17
+#critical ratio
+3,4
+#non-critical ratio
+1,2,5,6,7,8,9,10
+
+round: 18
+#critical ratio
+3,5
+#non-critical ratio
+1,2,4,6,7,8,9,10
+
+round: 19
+#critical ratio
+3,6
+#non-critical ratio
+1,2,4,5,7,8,9,10
+
+round: 20
+#critical ratio
+3,7
+#non-critical ratio
+1,2,4,5,6,8,9,10
+
+round: 21
+#critical ratio
+3,8
+#non-critical ratio
+1,2,4,5,6,7,9,10
+
+round: 22
+#critical ratio
+3,9
+#non-critical ratio
+1,2,4,5,6,7,8,10
+
+round: 23
+#critical ratio
+3,10
+#non-critical ratio
+1,2,4,5,6,7,8,9
+
+round: 24
+#critical ratio
+4,5
+#non-critical ratio
+1,2,3,6,7,8,9,10
+
+round: 25
+#critical ratio
+4,6
+#non-critical ratio
+1,2,3,5,7,8,9,10
+
+round: 26
+#critical ratio
+4,7
+#non-critical ratio
+1,2,3,5,6,8,9,10
+
+round: 27
+#critical ratio
+4,8
+#non-critical ratio
+1,2,3,5,6,7,9,10
+
+round: 28
+#critical ratio
+4,9
+#non-critical ratio
+1,2,3,5,6,7,8,10
+
+round: 29
+#critical ratio
+4,10
+#non-critical ratio
+1,2,3,5,6,7,8,9
+
+round: 30
+#critical ratio
+5,6
+#non-critical ratio
+1,2,3,4,7,8,9,10
+
+round: 31
+#critical ratio
+5,7
+#non-critical ratio
+1,2,3,4,6,8,9,10
+
+round: 32
+#critical ratio
+5,8
+#non-critical ratio
+1,2,3,4,6,7,9,10
+
+round: 33
+#critical ratio
+5,9
+#non-critical ratio
+1,2,3,4,6,7,8,10
+
+round: 34
+#critical ratio
+5,10
+#non-critical ratio
+1,2,3,4,6,7,8,9
+
+round: 35
+#critical ratio
+6,7
+#non-critical ratio
+1,2,3,4,5,8,9,10
+
+round: 36
+#critical ratio
+6,8
+#non-critical ratio
+1,2,3,4,5,7,9,10
+
+round: 37
+#critical ratio
+6,9
+#non-critical ratio
+1,2,3,4,5,7,8,10
+
+round: 38
+#critical ratio
+6,10
+#non-critical ratio
+1,2,3,4,5,7,8,9
+
+round: 39
+#critical ratio
+7,8
+#non-critical ratio
+1,2,3,4,5,6,9,10
+
+round: 40
+#critical ratio
+7,9
+#non-critical ratio
+1,2,3,4,5,6,8,10
+
+round: 41
+#critical ratio
+7,10
+#non-critical ratio
+1,2,3,4,5,6,8,9
+
+round: 42
+#critical ratio
+8,9
+#non-critical ratio
+1,2,3,4,5,6,7,10
+
+round: 43
+#critical ratio
+8,10
+#non-critical ratio
+1,2,3,4,5,6,7,9
+
+round: 44
+#critical ratio
+9,10
+#non-critical ratio
+1,2,3,4,5,6,7,8
+
+round: 0
+#critical ratio
+1,2,3,4
+#non-critical ratio
+5,6,7,8,9,10
+
+round: 1
+#critical ratio
+1,2,3,5
+#non-critical ratio
+4,6,7,8,9,10
+
+round: 2
+#critical ratio
+1,2,3,6
+#non-critical ratio
+4,5,7,8,9,10
+
+round: 3
+#critical ratio
+1,2,3,7
+#non-critical ratio
+4,5,6,8,9,10
+
+round: 4
+#critical ratio
+1,2,3,8
+#non-critical ratio
+4,5,6,7,9,10
+
+round: 5
+#critical ratio
+1,2,3,9
+#non-critical ratio
+4,5,6,7,8,10
+
+round: 6
+#critical ratio
+1,2,3,10
+#non-critical ratio
+4,5,6,7,8,9
+
+round: 7
+#critical ratio
+1,2,4,5
+#non-critical ratio
+3,6,7,8,9,10
+
+round: 8
+#critical ratio
+1,2,4,6
+#non-critical ratio
+3,5,7,8,9,10
+
+round: 9
+#critical ratio
+1,2,4,7
+#non-critical ratio
+3,5,6,8,9,10
+
+round: 10
+#critical ratio
+1,2,4,8
+#non-critical ratio
+3,5,6,7,9,10
+
+round: 11
+#critical ratio
+1,2,4,9
+#non-critical ratio
+3,5,6,7,8,10
+
+round: 12
+#critical ratio
+1,2,4,10
+#non-critical ratio
+3,5,6,7,8,9
+
+round: 13
+#critical ratio
+1,2,5,6
+#non-critical ratio
+3,4,7,8,9,10
+
+round: 14
+#critical ratio
+1,2,5,7
+#non-critical ratio
+3,4,6,8,9,10
+
+round: 15
+#critical ratio
+1,2,5,8
+#non-critical ratio
+3,4,6,7,9,10
+
+round: 16
+#critical ratio
+1,2,5,9
+#non-critical ratio
+3,4,6,7,8,10
+
+round: 17
+#critical ratio
+1,2,5,10
+#non-critical ratio
+3,4,6,7,8,9
+
+round: 18
+#critical ratio
+1,2,6,7
+#non-critical ratio
+3,4,5,8,9,10
+
+round: 19
+#critical ratio
+1,2,6,8
+#non-critical ratio
+3,4,5,7,9,10
+
+round: 20
+#critical ratio
+1,2,6,9
+#non-critical ratio
+3,4,5,7,8,10
+
+round: 21
+#critical ratio
+1,2,6,10
+#non-critical ratio
+3,4,5,7,8,9
+
+round: 22
+#critical ratio
+1,2,7,8
+#non-critical ratio
+3,4,5,6,9,10
+
+round: 23
+#critical ratio
+1,2,7,9
+#non-critical ratio
+3,4,5,6,8,10
+
+round: 24
+#critical ratio
+1,2,7,10
+#non-critical ratio
+3,4,5,6,8,9
+
+round: 25
+#critical ratio
+1,2,8,9
+#non-critical ratio
+3,4,5,6,7,10
+
+round: 26
+#critical ratio
+1,2,8,10
+#non-critical ratio
+3,4,5,6,7,9
+
+round: 27
+#critical ratio
+1,2,9,10
+#non-critical ratio
+3,4,5,6,7,8
+
+round: 28
+#critical ratio
+1,3,4,5
+#non-critical ratio
+2,6,7,8,9,10
+
+round: 29
+#critical ratio
+1,3,4,6
+#non-critical ratio
+2,5,7,8,9,10
+
+round: 30
+#critical ratio
+1,3,4,7
+#non-critical ratio
+2,5,6,8,9,10
+
+round: 31
+#critical ratio
+1,3,4,8
+#non-critical ratio
+2,5,6,7,9,10
+
+round: 32
+#critical ratio
+1,3,4,9
+#non-critical ratio
+2,5,6,7,8,10
+
+round: 33
+#critical ratio
+1,3,4,10
+#non-critical ratio
+2,5,6,7,8,9
+
+round: 34
+#critical ratio
+1,3,5,6
+#non-critical ratio
+2,4,7,8,9,10
+
+round: 35
+#critical ratio
+1,3,5,7
+#non-critical ratio
+2,4,6,8,9,10
+
+round: 36
+#critical ratio
+1,3,5,8
+#non-critical ratio
+2,4,6,7,9,10
+
+round: 37
+#critical ratio
+1,3,5,9
+#non-critical ratio
+2,4,6,7,8,10
+
+round: 38
+#critical ratio
+1,3,5,10
+#non-critical ratio
+2,4,6,7,8,9
+
+round: 39
+#critical ratio
+1,3,6,7
+#non-critical ratio
+2,4,5,8,9,10
+
+round: 40
+#critical ratio
+1,3,6,8
+#non-critical ratio
+2,4,5,7,9,10
+
+round: 41
+#critical ratio
+1,3,6,9
+#non-critical ratio
+2,4,5,7,8,10
+
+round: 42
+#critical ratio
+1,3,6,10
+#non-critical ratio
+2,4,5,7,8,9
+
+round: 43
+#critical ratio
+1,3,7,8
+#non-critical ratio
+2,4,5,6,9,10
+
+round: 44
+#critical ratio
+1,3,7,9
+#non-critical ratio
+2,4,5,6,8,10
+
+round: 45
+#critical ratio
+1,3,7,10
+#non-critical ratio
+2,4,5,6,8,9
+
+round: 46
+#critical ratio
+1,3,8,9
+#non-critical ratio
+2,4,5,6,7,10
+
+round: 47
+#critical ratio
+1,3,8,10
+#non-critical ratio
+2,4,5,6,7,9
+
+round: 48
+#critical ratio
+1,3,9,10
+#non-critical ratio
+2,4,5,6,7,8
+
+round: 49
+#critical ratio
+1,4,5,6
+#non-critical ratio
+2,3,7,8,9,10
+
+round: 50
+#critical ratio
+1,4,5,7
+#non-critical ratio
+2,3,6,8,9,10
+
+round: 51
+#critical ratio
+1,4,5,8
+#non-critical ratio
+2,3,6,7,9,10
+
+round: 52
+#critical ratio
+1,4,5,9
+#non-critical ratio
+2,3,6,7,8,10
+
+round: 53
+#critical ratio
+1,4,5,10
+#non-critical ratio
+2,3,6,7,8,9
+
+round: 54
+#critical ratio
+1,4,6,7
+#non-critical ratio
+2,3,5,8,9,10
+
+round: 55
+#critical ratio
+1,4,6,8
+#non-critical ratio
+2,3,5,7,9,10
+
+round: 56
+#critical ratio
+1,4,6,9
+#non-critical ratio
+2,3,5,7,8,10
+
+round: 57
+#critical ratio
+1,4,6,10
+#non-critical ratio
+2,3,5,7,8,9
+
+round: 58
+#critical ratio
+1,4,7,8
+#non-critical ratio
+2,3,5,6,9,10
+
+round: 59
+#critical ratio
+1,4,7,9
+#non-critical ratio
+2,3,5,6,8,10
+
+round: 60
+#critical ratio
+1,4,7,10
+#non-critical ratio
+2,3,5,6,8,9
+
+round: 61
+#critical ratio
+1,4,8,9
+#non-critical ratio
+2,3,5,6,7,10
+
+round: 62
+#critical ratio
+1,4,8,10
+#non-critical ratio
+2,3,5,6,7,9
+
+round: 63
+#critical ratio
+1,4,9,10
+#non-critical ratio
+2,3,5,6,7,8
+
+round: 64
+#critical ratio
+1,5,6,7
+#non-critical ratio
+2,3,4,8,9,10
+
+round: 65
+#critical ratio
+1,5,6,8
+#non-critical ratio
+2,3,4,7,9,10
+
+round: 66
+#critical ratio
+1,5,6,9
+#non-critical ratio
+2,3,4,7,8,10
+
+round: 67
+#critical ratio
+1,5,6,10
+#non-critical ratio
+2,3,4,7,8,9
+
+round: 68
+#critical ratio
+1,5,7,8
+#non-critical ratio
+2,3,4,6,9,10
+
+round: 69
+#critical ratio
+1,5,7,9
+#non-critical ratio
+2,3,4,6,8,10
+
+round: 70
+#critical ratio
+1,5,7,10
+#non-critical ratio
+2,3,4,6,8,9
+
+round: 71
+#critical ratio
+1,5,8,9
+#non-critical ratio
+2,3,4,6,7,10
+
+round: 72
+#critical ratio
+1,5,8,10
+#non-critical ratio
+2,3,4,6,7,9
+
+round: 73
+#critical ratio
+1,5,9,10
+#non-critical ratio
+2,3,4,6,7,8
+
+round: 74
+#critical ratio
+1,6,7,8
+#non-critical ratio
+2,3,4,5,9,10
+
+round: 75
+#critical ratio
+1,6,7,9
+#non-critical ratio
+2,3,4,5,8,10
+
+round: 76
+#critical ratio
+1,6,7,10
+#non-critical ratio
+2,3,4,5,8,9
+
+round: 77
+#critical ratio
+1,6,8,9
+#non-critical ratio
+2,3,4,5,7,10
+
+round: 78
+#critical ratio
+1,6,8,10
+#non-critical ratio
+2,3,4,5,7,9
+
+round: 79
+#critical ratio
+1,6,9,10
+#non-critical ratio
+2,3,4,5,7,8
+
+round: 80
+#critical ratio
+1,7,8,9
+#non-critical ratio
+2,3,4,5,6,10
+
+round: 81
+#critical ratio
+1,7,8,10
+#non-critical ratio
+2,3,4,5,6,9
+
+round: 82
+#critical ratio
+1,7,9,10
+#non-critical ratio
+2,3,4,5,6,8
+
+round: 83
+#critical ratio
+1,8,9,10
+#non-critical ratio
+2,3,4,5,6,7
+
+round: 84
+#critical ratio
+2,3,4,5
+#non-critical ratio
+1,6,7,8,9,10
+
+round: 85
+#critical ratio
+2,3,4,6
+#non-critical ratio
+1,5,7,8,9,10
+
+round: 86
+#critical ratio
+2,3,4,7
+#non-critical ratio
+1,5,6,8,9,10
+
+round: 87
+#critical ratio
+2,3,4,8
+#non-critical ratio
+1,5,6,7,9,10
+
+round: 88
+#critical ratio
+2,3,4,9
+#non-critical ratio
+1,5,6,7,8,10
+
+round: 89
+#critical ratio
+2,3,4,10
+#non-critical ratio
+1,5,6,7,8,9
+
+round: 90
+#critical ratio
+2,3,5,6
+#non-critical ratio
+1,4,7,8,9,10
+
+round: 91
+#critical ratio
+2,3,5,7
+#non-critical ratio
+1,4,6,8,9,10
+
+round: 92
+#critical ratio
+2,3,5,8
+#non-critical ratio
+1,4,6,7,9,10
+
+round: 93
+#critical ratio
+2,3,5,9
+#non-critical ratio
+1,4,6,7,8,10
+
+round: 94
+#critical ratio
+2,3,5,10
+#non-critical ratio
+1,4,6,7,8,9
+
+round: 95
+#critical ratio
+2,3,6,7
+#non-critical ratio
+1,4,5,8,9,10
+
+round: 96
+#critical ratio
+2,3,6,8
+#non-critical ratio
+1,4,5,7,9,10
+
+round: 97
+#critical ratio
+2,3,6,9
+#non-critical ratio
+1,4,5,7,8,10
+
+round: 98
+#critical ratio
+2,3,6,10
+#non-critical ratio
+1,4,5,7,8,9
+
+round: 99
+#critical ratio
+2,3,7,8
+#non-critical ratio
+1,4,5,6,9,10
+
+round: 100
+#critical ratio
+2,3,7,9
+#non-critical ratio
+1,4,5,6,8,10
+
+round: 101
+#critical ratio
+2,3,7,10
+#non-critical ratio
+1,4,5,6,8,9
+
+round: 102
+#critical ratio
+2,3,8,9
+#non-critical ratio
+1,4,5,6,7,10
+
+round: 103
+#critical ratio
+2,3,8,10
+#non-critical ratio
+1,4,5,6,7,9
+
+round: 104
+#critical ratio
+2,3,9,10
+#non-critical ratio
+1,4,5,6,7,8
+
+round: 105
+#critical ratio
+2,4,5,6
+#non-critical ratio
+1,3,7,8,9,10
+
+round: 106
+#critical ratio
+2,4,5,7
+#non-critical ratio
+1,3,6,8,9,10
+
+round: 107
+#critical ratio
+2,4,5,8
+#non-critical ratio
+1,3,6,7,9,10
+
+round: 108
+#critical ratio
+2,4,5,9
+#non-critical ratio
+1,3,6,7,8,10
+
+round: 109
+#critical ratio
+2,4,5,10
+#non-critical ratio
+1,3,6,7,8,9
+
+round: 110
+#critical ratio
+2,4,6,7
+#non-critical ratio
+1,3,5,8,9,10
+
+round: 111
+#critical ratio
+2,4,6,8
+#non-critical ratio
+1,3,5,7,9,10
+
+round: 112
+#critical ratio
+2,4,6,9
+#non-critical ratio
+1,3,5,7,8,10
+
+round: 113
+#critical ratio
+2,4,6,10
+#non-critical ratio
+1,3,5,7,8,9
+
+round: 114
+#critical ratio
+2,4,7,8
+#non-critical ratio
+1,3,5,6,9,10
+
+round: 115
+#critical ratio
+2,4,7,9
+#non-critical ratio
+1,3,5,6,8,10
+
+round: 116
+#critical ratio
+2,4,7,10
+#non-critical ratio
+1,3,5,6,8,9
+
+round: 117
+#critical ratio
+2,4,8,9
+#non-critical ratio
+1,3,5,6,7,10
+
+round: 118
+#critical ratio
+2,4,8,10
+#non-critical ratio
+1,3,5,6,7,9
+
+round: 119
+#critical ratio
+2,4,9,10
+#non-critical ratio
+1,3,5,6,7,8
+
+round: 120
+#critical ratio
+2,5,6,7
+#non-critical ratio
+1,3,4,8,9,10
+
+round: 121
+#critical ratio
+2,5,6,8
+#non-critical ratio
+1,3,4,7,9,10
+
+round: 122
+#critical ratio
+2,5,6,9
+#non-critical ratio
+1,3,4,7,8,10
+
+round: 123
+#critical ratio
+2,5,6,10
+#non-critical ratio
+1,3,4,7,8,9
+
+round: 124
+#critical ratio
+2,5,7,8
+#non-critical ratio
+1,3,4,6,9,10
+
+round: 125
+#critical ratio
+2,5,7,9
+#non-critical ratio
+1,3,4,6,8,10
+
+round: 126
+#critical ratio
+2,5,7,10
+#non-critical ratio
+1,3,4,6,8,9
+
+round: 127
+#critical ratio
+2,5,8,9
+#non-critical ratio
+1,3,4,6,7,10
+
+round: 128
+#critical ratio
+2,5,8,10
+#non-critical ratio
+1,3,4,6,7,9
+
+round: 129
+#critical ratio
+2,5,9,10
+#non-critical ratio
+1,3,4,6,7,8
+
+round: 130
+#critical ratio
+2,6,7,8
+#non-critical ratio
+1,3,4,5,9,10
+
+round: 131
+#critical ratio
+2,6,7,9
+#non-critical ratio
+1,3,4,5,8,10
+
+round: 132
+#critical ratio
+2,6,7,10
+#non-critical ratio
+1,3,4,5,8,9
+
+round: 133
+#critical ratio
+2,6,8,9
+#non-critical ratio
+1,3,4,5,7,10
+
+round: 134
+#critical ratio
+2,6,8,10
+#non-critical ratio
+1,3,4,5,7,9
+
+round: 135
+#critical ratio
+2,6,9,10
+#non-critical ratio
+1,3,4,5,7,8
+
+round: 136
+#critical ratio
+2,7,8,9
+#non-critical ratio
+1,3,4,5,6,10
+
+round: 137
+#critical ratio
+2,7,8,10
+#non-critical ratio
+1,3,4,5,6,9
+
+round: 138
+#critical ratio
+2,7,9,10
+#non-critical ratio
+1,3,4,5,6,8
+
+round: 139
+#critical ratio
+2,8,9,10
+#non-critical ratio
+1,3,4,5,6,7
+
+round: 140
+#critical ratio
+3,4,5,6
+#non-critical ratio
+1,2,7,8,9,10
+
+round: 141
+#critical ratio
+3,4,5,7
+#non-critical ratio
+1,2,6,8,9,10
+
+round: 142
+#critical ratio
+3,4,5,8
+#non-critical ratio
+1,2,6,7,9,10
+
+round: 143
+#critical ratio
+3,4,5,9
+#non-critical ratio
+1,2,6,7,8,10
+
+round: 144
+#critical ratio
+3,4,5,10
+#non-critical ratio
+1,2,6,7,8,9
+
+round: 145
+#critical ratio
+3,4,6,7
+#non-critical ratio
+1,2,5,8,9,10
+
+round: 146
+#critical ratio
+3,4,6,8
+#non-critical ratio
+1,2,5,7,9,10
+
+round: 147
+#critical ratio
+3,4,6,9
+#non-critical ratio
+1,2,5,7,8,10
+
+round: 148
+#critical ratio
+3,4,6,10
+#non-critical ratio
+1,2,5,7,8,9
+
+round: 149
+#critical ratio
+3,4,7,8
+#non-critical ratio
+1,2,5,6,9,10
+
+round: 150
+#critical ratio
+3,4,7,9
+#non-critical ratio
+1,2,5,6,8,10
+
+round: 151
+#critical ratio
+3,4,7,10
+#non-critical ratio
+1,2,5,6,8,9
+
+round: 152
+#critical ratio
+3,4,8,9
+#non-critical ratio
+1,2,5,6,7,10
+
+round: 153
+#critical ratio
+3,4,8,10
+#non-critical ratio
+1,2,5,6,7,9
+
+round: 154
+#critical ratio
+3,4,9,10
+#non-critical ratio
+1,2,5,6,7,8
+
+round: 155
+#critical ratio
+3,5,6,7
+#non-critical ratio
+1,2,4,8,9,10
+
+round: 156
+#critical ratio
+3,5,6,8
+#non-critical ratio
+1,2,4,7,9,10
+
+round: 157
+#critical ratio
+3,5,6,9
+#non-critical ratio
+1,2,4,7,8,10
+
+round: 158
+#critical ratio
+3,5,6,10
+#non-critical ratio
+1,2,4,7,8,9
+
+round: 159
+#critical ratio
+3,5,7,8
+#non-critical ratio
+1,2,4,6,9,10
+
+round: 160
+#critical ratio
+3,5,7,9
+#non-critical ratio
+1,2,4,6,8,10
+
+round: 161
+#critical ratio
+3,5,7,10
+#non-critical ratio
+1,2,4,6,8,9
+
+round: 162
+#critical ratio
+3,5,8,9
+#non-critical ratio
+1,2,4,6,7,10
+
+round: 163
+#critical ratio
+3,5,8,10
+#non-critical ratio
+1,2,4,6,7,9
+
+round: 164
+#critical ratio
+3,5,9,10
+#non-critical ratio
+1,2,4,6,7,8
+
+round: 165
+#critical ratio
+3,6,7,8
+#non-critical ratio
+1,2,4,5,9,10
+
+round: 166
+#critical ratio
+3,6,7,9
+#non-critical ratio
+1,2,4,5,8,10
+
+round: 167
+#critical ratio
+3,6,7,10
+#non-critical ratio
+1,2,4,5,8,9
+
+round: 168
+#critical ratio
+3,6,8,9
+#non-critical ratio
+1,2,4,5,7,10
+
+round: 169
+#critical ratio
+3,6,8,10
+#non-critical ratio
+1,2,4,5,7,9
+
+round: 170
+#critical ratio
+3,6,9,10
+#non-critical ratio
+1,2,4,5,7,8
+
+round: 171
+#critical ratio
+3,7,8,9
+#non-critical ratio
+1,2,4,5,6,10
+
+round: 172
+#critical ratio
+3,7,8,10
+#non-critical ratio
+1,2,4,5,6,9
+
+round: 173
+#critical ratio
+3,7,9,10
+#non-critical ratio
+1,2,4,5,6,8
+
+round: 174
+#critical ratio
+3,8,9,10
+#non-critical ratio
+1,2,4,5,6,7
+
+round: 175
+#critical ratio
+4,5,6,7
+#non-critical ratio
+1,2,3,8,9,10
+
+round: 176
+#critical ratio
+4,5,6,8
+#non-critical ratio
+1,2,3,7,9,10
+
+round: 177
+#critical ratio
+4,5,6,9
+#non-critical ratio
+1,2,3,7,8,10
+
+round: 178
+#critical ratio
+4,5,6,10
+#non-critical ratio
+1,2,3,7,8,9
+
+round: 179
+#critical ratio
+4,5,7,8
+#non-critical ratio
+1,2,3,6,9,10
+
+round: 180
+#critical ratio
+4,5,7,9
+#non-critical ratio
+1,2,3,6,8,10
+
+round: 181
+#critical ratio
+4,5,7,10
+#non-critical ratio
+1,2,3,6,8,9
+
+round: 182
+#critical ratio
+4,5,8,9
+#non-critical ratio
+1,2,3,6,7,10
+
+round: 183
+#critical ratio
+4,5,8,10
+#non-critical ratio
+1,2,3,6,7,9
+
+round: 184
+#critical ratio
+4,5,9,10
+#non-critical ratio
+1,2,3,6,7,8
+
+round: 185
+#critical ratio
+4,6,7,8
+#non-critical ratio
+1,2,3,5,9,10
+
+round: 186
+#critical ratio
+4,6,7,9
+#non-critical ratio
+1,2,3,5,8,10
+
+round: 187
+#critical ratio
+4,6,7,10
+#non-critical ratio
+1,2,3,5,8,9
+
+round: 188
+#critical ratio
+4,6,8,9
+#non-critical ratio
+1,2,3,5,7,10
+
+round: 189
+#critical ratio
+4,6,8,10
+#non-critical ratio
+1,2,3,5,7,9
+
+round: 190
+#critical ratio
+4,6,9,10
+#non-critical ratio
+1,2,3,5,7,8
+
+round: 191
+#critical ratio
+4,7,8,9
+#non-critical ratio
+1,2,3,5,6,10
+
+round: 192
+#critical ratio
+4,7,8,10
+#non-critical ratio
+1,2,3,5,6,9
+
+round: 193
+#critical ratio
+4,7,9,10
+#non-critical ratio
+1,2,3,5,6,8
+
+round: 194
+#critical ratio
+4,8,9,10
+#non-critical ratio
+1,2,3,5,6,7
+
+round: 195
+#critical ratio
+5,6,7,8
+#non-critical ratio
+1,2,3,4,9,10
+
+round: 196
+#critical ratio
+5,6,7,9
+#non-critical ratio
+1,2,3,4,8,10
+
+round: 197
+#critical ratio
+5,6,7,10
+#non-critical ratio
+1,2,3,4,8,9
+
+round: 198
+#critical ratio
+5,6,8,9
+#non-critical ratio
+1,2,3,4,7,10
+
+round: 199
+#critical ratio
+5,6,8,10
+#non-critical ratio
+1,2,3,4,7,9
+
+round: 200
+#critical ratio
+5,6,9,10
+#non-critical ratio
+1,2,3,4,7,8
+
+round: 201
+#critical ratio
+5,7,8,9
+#non-critical ratio
+1,2,3,4,6,10
+
+round: 202
+#critical ratio
+5,7,8,10
+#non-critical ratio
+1,2,3,4,6,9
+
+round: 203
+#critical ratio
+5,7,9,10
+#non-critical ratio
+1,2,3,4,6,8
+
+round: 204
+#critical ratio
+5,8,9,10
+#non-critical ratio
+1,2,3,4,6,7
+
+round: 205
+#critical ratio
+6,7,8,9
+#non-critical ratio
+1,2,3,4,5,10
+
+round: 206
+#critical ratio
+6,7,8,10
+#non-critical ratio
+1,2,3,4,5,9
+
+round: 207
+#critical ratio
+6,7,9,10
+#non-critical ratio
+1,2,3,4,5,8
+
+round: 208
+#critical ratio
+6,8,9,10
+#non-critical ratio
+1,2,3,4,5,7
+
+round: 209
+#critical ratio
+7,8,9,10
+#non-critical ratio
+1,2,3,4,5,6
+
+round: 0
+#critical ratio
+1,2,3,4,5,6
+#non-critical ratio
+7,8,9,10
+
+round: 1
+#critical ratio
+1,2,3,4,5,7
+#non-critical ratio
+6,8,9,10
+
+round: 2
+#critical ratio
+1,2,3,4,5,8
+#non-critical ratio
+6,7,9,10
+
+round: 3
+#critical ratio
+1,2,3,4,5,9
+#non-critical ratio
+6,7,8,10
+
+round: 4
+#critical ratio
+1,2,3,4,5,10
+#non-critical ratio
+6,7,8,9
+
+round: 5
+#critical ratio
+1,2,3,4,6,7
+#non-critical ratio
+5,8,9,10
+
+round: 6
+#critical ratio
+1,2,3,4,6,8
+#non-critical ratio
+5,7,9,10
+
+round: 7
+#critical ratio
+1,2,3,4,6,9
+#non-critical ratio
+5,7,8,10
+
+round: 8
+#critical ratio
+1,2,3,4,6,10
+#non-critical ratio
+5,7,8,9
+
+round: 9
+#critical ratio
+1,2,3,4,7,8
+#non-critical ratio
+5,6,9,10
+
+round: 10
+#critical ratio
+1,2,3,4,7,9
+#non-critical ratio
+5,6,8,10
+
+round: 11
+#critical ratio
+1,2,3,4,7,10
+#non-critical ratio
+5,6,8,9
+
+round: 12
+#critical ratio
+1,2,3,4,8,9
+#non-critical ratio
+5,6,7,10
+
+round: 13
+#critical ratio
+1,2,3,4,8,10
+#non-critical ratio
+5,6,7,9
+
+round: 14
+#critical ratio
+1,2,3,4,9,10
+#non-critical ratio
+5,6,7,8
+
+round: 15
+#critical ratio
+1,2,3,5,6,7
+#non-critical ratio
+4,8,9,10
+
+round: 16
+#critical ratio
+1,2,3,5,6,8
+#non-critical ratio
+4,7,9,10
+
+round: 17
+#critical ratio
+1,2,3,5,6,9
+#non-critical ratio
+4,7,8,10
+
+round: 18
+#critical ratio
+1,2,3,5,6,10
+#non-critical ratio
+4,7,8,9
+
+round: 19
+#critical ratio
+1,2,3,5,7,8
+#non-critical ratio
+4,6,9,10
+
+round: 20
+#critical ratio
+1,2,3,5,7,9
+#non-critical ratio
+4,6,8,10
+
+round: 21
+#critical ratio
+1,2,3,5,7,10
+#non-critical ratio
+4,6,8,9
+
+round: 22
+#critical ratio
+1,2,3,5,8,9
+#non-critical ratio
+4,6,7,10
+
+round: 23
+#critical ratio
+1,2,3,5,8,10
+#non-critical ratio
+4,6,7,9
+
+round: 24
+#critical ratio
+1,2,3,5,9,10
+#non-critical ratio
+4,6,7,8
+
+round: 25
+#critical ratio
+1,2,3,6,7,8
+#non-critical ratio
+4,5,9,10
+
+round: 26
+#critical ratio
+1,2,3,6,7,9
+#non-critical ratio
+4,5,8,10
+
+round: 27
+#critical ratio
+1,2,3,6,7,10
+#non-critical ratio
+4,5,8,9
+
+round: 28
+#critical ratio
+1,2,3,6,8,9
+#non-critical ratio
+4,5,7,10
+
+round: 29
+#critical ratio
+1,2,3,6,8,10
+#non-critical ratio
+4,5,7,9
+
+round: 30
+#critical ratio
+1,2,3,6,9,10
+#non-critical ratio
+4,5,7,8
+
+round: 31
+#critical ratio
+1,2,3,7,8,9
+#non-critical ratio
+4,5,6,10
+
+round: 32
+#critical ratio
+1,2,3,7,8,10
+#non-critical ratio
+4,5,6,9
+
+round: 33
+#critical ratio
+1,2,3,7,9,10
+#non-critical ratio
+4,5,6,8
+
+round: 34
+#critical ratio
+1,2,3,8,9,10
+#non-critical ratio
+4,5,6,7
+
+round: 35
+#critical ratio
+1,2,4,5,6,7
+#non-critical ratio
+3,8,9,10
+
+round: 36
+#critical ratio
+1,2,4,5,6,8
+#non-critical ratio
+3,7,9,10
+
+round: 37
+#critical ratio
+1,2,4,5,6,9
+#non-critical ratio
+3,7,8,10
+
+round: 38
+#critical ratio
+1,2,4,5,6,10
+#non-critical ratio
+3,7,8,9
+
+round: 39
+#critical ratio
+1,2,4,5,7,8
+#non-critical ratio
+3,6,9,10
+
+round: 40
+#critical ratio
+1,2,4,5,7,9
+#non-critical ratio
+3,6,8,10
+
+round: 41
+#critical ratio
+1,2,4,5,7,10
+#non-critical ratio
+3,6,8,9
+
+round: 42
+#critical ratio
+1,2,4,5,8,9
+#non-critical ratio
+3,6,7,10
+
+round: 43
+#critical ratio
+1,2,4,5,8,10
+#non-critical ratio
+3,6,7,9
+
+round: 44
+#critical ratio
+1,2,4,5,9,10
+#non-critical ratio
+3,6,7,8
+
+round: 45
+#critical ratio
+1,2,4,6,7,8
+#non-critical ratio
+3,5,9,10
+
+round: 46
+#critical ratio
+1,2,4,6,7,9
+#non-critical ratio
+3,5,8,10
+
+round: 47
+#critical ratio
+1,2,4,6,7,10
+#non-critical ratio
+3,5,8,9
+
+round: 48
+#critical ratio
+1,2,4,6,8,9
+#non-critical ratio
+3,5,7,10
+
+round: 49
+#critical ratio
+1,2,4,6,8,10
+#non-critical ratio
+3,5,7,9
+
+round: 50
+#critical ratio
+1,2,4,6,9,10
+#non-critical ratio
+3,5,7,8
+
+round: 51
+#critical ratio
+1,2,4,7,8,9
+#non-critical ratio
+3,5,6,10
+
+round: 52
+#critical ratio
+1,2,4,7,8,10
+#non-critical ratio
+3,5,6,9
+
+round: 53
+#critical ratio
+1,2,4,7,9,10
+#non-critical ratio
+3,5,6,8
+
+round: 54
+#critical ratio
+1,2,4,8,9,10
+#non-critical ratio
+3,5,6,7
+
+round: 55
+#critical ratio
+1,2,5,6,7,8
+#non-critical ratio
+3,4,9,10
+
+round: 56
+#critical ratio
+1,2,5,6,7,9
+#non-critical ratio
+3,4,8,10
+
+round: 57
+#critical ratio
+1,2,5,6,7,10
+#non-critical ratio
+3,4,8,9
+
+round: 58
+#critical ratio
+1,2,5,6,8,9
+#non-critical ratio
+3,4,7,10
+
+round: 59
+#critical ratio
+1,2,5,6,8,10
+#non-critical ratio
+3,4,7,9
+
+round: 60
+#critical ratio
+1,2,5,6,9,10
+#non-critical ratio
+3,4,7,8
+
+round: 61
+#critical ratio
+1,2,5,7,8,9
+#non-critical ratio
+3,4,6,10
+
+round: 62
+#critical ratio
+1,2,5,7,8,10
+#non-critical ratio
+3,4,6,9
+
+round: 63
+#critical ratio
+1,2,5,7,9,10
+#non-critical ratio
+3,4,6,8
+
+round: 64
+#critical ratio
+1,2,5,8,9,10
+#non-critical ratio
+3,4,6,7
+
+round: 65
+#critical ratio
+1,2,6,7,8,9
+#non-critical ratio
+3,4,5,10
+
+round: 66
+#critical ratio
+1,2,6,7,8,10
+#non-critical ratio
+3,4,5,9
+
+round: 67
+#critical ratio
+1,2,6,7,9,10
+#non-critical ratio
+3,4,5,8
+
+round: 68
+#critical ratio
+1,2,6,8,9,10
+#non-critical ratio
+3,4,5,7
+
+round: 69
+#critical ratio
+1,2,7,8,9,10
+#non-critical ratio
+3,4,5,6
+
+round: 70
+#critical ratio
+1,3,4,5,6,7
+#non-critical ratio
+2,8,9,10
+
+round: 71
+#critical ratio
+1,3,4,5,6,8
+#non-critical ratio
+2,7,9,10
+
+round: 72
+#critical ratio
+1,3,4,5,6,9
+#non-critical ratio
+2,7,8,10
+
+round: 73
+#critical ratio
+1,3,4,5,6,10
+#non-critical ratio
+2,7,8,9
+
+round: 74
+#critical ratio
+1,3,4,5,7,8
+#non-critical ratio
+2,6,9,10
+
+round: 75
+#critical ratio
+1,3,4,5,7,9
+#non-critical ratio
+2,6,8,10
+
+round: 76
+#critical ratio
+1,3,4,5,7,10
+#non-critical ratio
+2,6,8,9
+
+round: 77
+#critical ratio
+1,3,4,5,8,9
+#non-critical ratio
+2,6,7,10
+
+round: 78
+#critical ratio
+1,3,4,5,8,10
+#non-critical ratio
+2,6,7,9
+
+round: 79
+#critical ratio
+1,3,4,5,9,10
+#non-critical ratio
+2,6,7,8
+
+round: 80
+#critical ratio
+1,3,4,6,7,8
+#non-critical ratio
+2,5,9,10
+
+round: 81
+#critical ratio
+1,3,4,6,7,9
+#non-critical ratio
+2,5,8,10
+
+round: 82
+#critical ratio
+1,3,4,6,7,10
+#non-critical ratio
+2,5,8,9
+
+round: 83
+#critical ratio
+1,3,4,6,8,9
+#non-critical ratio
+2,5,7,10
+
+round: 84
+#critical ratio
+1,3,4,6,8,10
+#non-critical ratio
+2,5,7,9
+
+round: 85
+#critical ratio
+1,3,4,6,9,10
+#non-critical ratio
+2,5,7,8
+
+round: 86
+#critical ratio
+1,3,4,7,8,9
+#non-critical ratio
+2,5,6,10
+
+round: 87
+#critical ratio
+1,3,4,7,8,10
+#non-critical ratio
+2,5,6,9
+
+round: 88
+#critical ratio
+1,3,4,7,9,10
+#non-critical ratio
+2,5,6,8
+
+round: 89
+#critical ratio
+1,3,4,8,9,10
+#non-critical ratio
+2,5,6,7
+
+round: 90
+#critical ratio
+1,3,5,6,7,8
+#non-critical ratio
+2,4,9,10
+
+round: 91
+#critical ratio
+1,3,5,6,7,9
+#non-critical ratio
+2,4,8,10
+
+round: 92
+#critical ratio
+1,3,5,6,7,10
+#non-critical ratio
+2,4,8,9
+
+round: 93
+#critical ratio
+1,3,5,6,8,9
+#non-critical ratio
+2,4,7,10
+
+round: 94
+#critical ratio
+1,3,5,6,8,10
+#non-critical ratio
+2,4,7,9
+
+round: 95
+#critical ratio
+1,3,5,6,9,10
+#non-critical ratio
+2,4,7,8
+
+round: 96
+#critical ratio
+1,3,5,7,8,9
+#non-critical ratio
+2,4,6,10
+
+round: 97
+#critical ratio
+1,3,5,7,8,10
+#non-critical ratio
+2,4,6,9
+
+round: 98
+#critical ratio
+1,3,5,7,9,10
+#non-critical ratio
+2,4,6,8
+
+round: 99
+#critical ratio
+1,3,5,8,9,10
+#non-critical ratio
+2,4,6,7
+
+round: 100
+#critical ratio
+1,3,6,7,8,9
+#non-critical ratio
+2,4,5,10
+
+round: 101
+#critical ratio
+1,3,6,7,8,10
+#non-critical ratio
+2,4,5,9
+
+round: 102
+#critical ratio
+1,3,6,7,9,10
+#non-critical ratio
+2,4,5,8
+
+round: 103
+#critical ratio
+1,3,6,8,9,10
+#non-critical ratio
+2,4,5,7
+
+round: 104
+#critical ratio
+1,3,7,8,9,10
+#non-critical ratio
+2,4,5,6
+
+round: 105
+#critical ratio
+1,4,5,6,7,8
+#non-critical ratio
+2,3,9,10
+
+round: 106
+#critical ratio
+1,4,5,6,7,9
+#non-critical ratio
+2,3,8,10
+
+round: 107
+#critical ratio
+1,4,5,6,7,10
+#non-critical ratio
+2,3,8,9
+
+round: 108
+#critical ratio
+1,4,5,6,8,9
+#non-critical ratio
+2,3,7,10
+
+round: 109
+#critical ratio
+1,4,5,6,8,10
+#non-critical ratio
+2,3,7,9
+
+round: 110
+#critical ratio
+1,4,5,6,9,10
+#non-critical ratio
+2,3,7,8
+
+round: 111
+#critical ratio
+1,4,5,7,8,9
+#non-critical ratio
+2,3,6,10
+
+round: 112
+#critical ratio
+1,4,5,7,8,10
+#non-critical ratio
+2,3,6,9
+
+round: 113
+#critical ratio
+1,4,5,7,9,10
+#non-critical ratio
+2,3,6,8
+
+round: 114
+#critical ratio
+1,4,5,8,9,10
+#non-critical ratio
+2,3,6,7
+
+round: 115
+#critical ratio
+1,4,6,7,8,9
+#non-critical ratio
+2,3,5,10
+
+round: 116
+#critical ratio
+1,4,6,7,8,10
+#non-critical ratio
+2,3,5,9
+
+round: 117
+#critical ratio
+1,4,6,7,9,10
+#non-critical ratio
+2,3,5,8
+
+round: 118
+#critical ratio
+1,4,6,8,9,10
+#non-critical ratio
+2,3,5,7
+
+round: 119
+#critical ratio
+1,4,7,8,9,10
+#non-critical ratio
+2,3,5,6
+
+round: 120
+#critical ratio
+1,5,6,7,8,9
+#non-critical ratio
+2,3,4,10
+
+round: 121
+#critical ratio
+1,5,6,7,8,10
+#non-critical ratio
+2,3,4,9
+
+round: 122
+#critical ratio
+1,5,6,7,9,10
+#non-critical ratio
+2,3,4,8
+
+round: 123
+#critical ratio
+1,5,6,8,9,10
+#non-critical ratio
+2,3,4,7
+
+round: 124
+#critical ratio
+1,5,7,8,9,10
+#non-critical ratio
+2,3,4,6
+
+round: 125
+#critical ratio
+1,6,7,8,9,10
+#non-critical ratio
+2,3,4,5
+
+round: 126
+#critical ratio
+2,3,4,5,6,7
+#non-critical ratio
+1,8,9,10
+
+round: 127
+#critical ratio
+2,3,4,5,6,8
+#non-critical ratio
+1,7,9,10
+
+round: 128
+#critical ratio
+2,3,4,5,6,9
+#non-critical ratio
+1,7,8,10
+
+round: 129
+#critical ratio
+2,3,4,5,6,10
+#non-critical ratio
+1,7,8,9
+
+round: 130
+#critical ratio
+2,3,4,5,7,8
+#non-critical ratio
+1,6,9,10
+
+round: 131
+#critical ratio
+2,3,4,5,7,9
+#non-critical ratio
+1,6,8,10
+
+round: 132
+#critical ratio
+2,3,4,5,7,10
+#non-critical ratio
+1,6,8,9
+
+round: 133
+#critical ratio
+2,3,4,5,8,9
+#non-critical ratio
+1,6,7,10
+
+round: 134
+#critical ratio
+2,3,4,5,8,10
+#non-critical ratio
+1,6,7,9
+
+round: 135
+#critical ratio
+2,3,4,5,9,10
+#non-critical ratio
+1,6,7,8
+
+round: 136
+#critical ratio
+2,3,4,6,7,8
+#non-critical ratio
+1,5,9,10
+
+round: 137
+#critical ratio
+2,3,4,6,7,9
+#non-critical ratio
+1,5,8,10
+
+round: 138
+#critical ratio
+2,3,4,6,7,10
+#non-critical ratio
+1,5,8,9
+
+round: 139
+#critical ratio
+2,3,4,6,8,9
+#non-critical ratio
+1,5,7,10
+
+round: 140
+#critical ratio
+2,3,4,6,8,10
+#non-critical ratio
+1,5,7,9
+
+round: 141
+#critical ratio
+2,3,4,6,9,10
+#non-critical ratio
+1,5,7,8
+
+round: 142
+#critical ratio
+2,3,4,7,8,9
+#non-critical ratio
+1,5,6,10
+
+round: 143
+#critical ratio
+2,3,4,7,8,10
+#non-critical ratio
+1,5,6,9
+
+round: 144
+#critical ratio
+2,3,4,7,9,10
+#non-critical ratio
+1,5,6,8
+
+round: 145
+#critical ratio
+2,3,4,8,9,10
+#non-critical ratio
+1,5,6,7
+
+round: 146
+#critical ratio
+2,3,5,6,7,8
+#non-critical ratio
+1,4,9,10
+
+round: 147
+#critical ratio
+2,3,5,6,7,9
+#non-critical ratio
+1,4,8,10
+
+round: 148
+#critical ratio
+2,3,5,6,7,10
+#non-critical ratio
+1,4,8,9
+
+round: 149
+#critical ratio
+2,3,5,6,8,9
+#non-critical ratio
+1,4,7,10
+
+round: 150
+#critical ratio
+2,3,5,6,8,10
+#non-critical ratio
+1,4,7,9
+
+round: 151
+#critical ratio
+2,3,5,6,9,10
+#non-critical ratio
+1,4,7,8
+
+round: 152
+#critical ratio
+2,3,5,7,8,9
+#non-critical ratio
+1,4,6,10
+
+round: 153
+#critical ratio
+2,3,5,7,8,10
+#non-critical ratio
+1,4,6,9
+
+round: 154
+#critical ratio
+2,3,5,7,9,10
+#non-critical ratio
+1,4,6,8
+
+round: 155
+#critical ratio
+2,3,5,8,9,10
+#non-critical ratio
+1,4,6,7
+
+round: 156
+#critical ratio
+2,3,6,7,8,9
+#non-critical ratio
+1,4,5,10
+
+round: 157
+#critical ratio
+2,3,6,7,8,10
+#non-critical ratio
+1,4,5,9
+
+round: 158
+#critical ratio
+2,3,6,7,9,10
+#non-critical ratio
+1,4,5,8
+
+round: 159
+#critical ratio
+2,3,6,8,9,10
+#non-critical ratio
+1,4,5,7
+
+round: 160
+#critical ratio
+2,3,7,8,9,10
+#non-critical ratio
+1,4,5,6
+
+round: 161
+#critical ratio
+2,4,5,6,7,8
+#non-critical ratio
+1,3,9,10
+
+round: 162
+#critical ratio
+2,4,5,6,7,9
+#non-critical ratio
+1,3,8,10
+
+round: 163
+#critical ratio
+2,4,5,6,7,10
+#non-critical ratio
+1,3,8,9
+
+round: 164
+#critical ratio
+2,4,5,6,8,9
+#non-critical ratio
+1,3,7,10
+
+round: 165
+#critical ratio
+2,4,5,6,8,10
+#non-critical ratio
+1,3,7,9
+
+round: 166
+#critical ratio
+2,4,5,6,9,10
+#non-critical ratio
+1,3,7,8
+
+round: 167
+#critical ratio
+2,4,5,7,8,9
+#non-critical ratio
+1,3,6,10
+
+round: 168
+#critical ratio
+2,4,5,7,8,10
+#non-critical ratio
+1,3,6,9
+
+round: 169
+#critical ratio
+2,4,5,7,9,10
+#non-critical ratio
+1,3,6,8
+
+round: 170
+#critical ratio
+2,4,5,8,9,10
+#non-critical ratio
+1,3,6,7
+
+round: 171
+#critical ratio
+2,4,6,7,8,9
+#non-critical ratio
+1,3,5,10
+
+round: 172
+#critical ratio
+2,4,6,7,8,10
+#non-critical ratio
+1,3,5,9
+
+round: 173
+#critical ratio
+2,4,6,7,9,10
+#non-critical ratio
+1,3,5,8
+
+round: 174
+#critical ratio
+2,4,6,8,9,10
+#non-critical ratio
+1,3,5,7
+
+round: 175
+#critical ratio
+2,4,7,8,9,10
+#non-critical ratio
+1,3,5,6
+
+round: 176
+#critical ratio
+2,5,6,7,8,9
+#non-critical ratio
+1,3,4,10
+
+round: 177
+#critical ratio
+2,5,6,7,8,10
+#non-critical ratio
+1,3,4,9
+
+round: 178
+#critical ratio
+2,5,6,7,9,10
+#non-critical ratio
+1,3,4,8
+
+round: 179
+#critical ratio
+2,5,6,8,9,10
+#non-critical ratio
+1,3,4,7
+
+round: 180
+#critical ratio
+2,5,7,8,9,10
+#non-critical ratio
+1,3,4,6
+
+round: 181
+#critical ratio
+2,6,7,8,9,10
+#non-critical ratio
+1,3,4,5
+
+round: 182
+#critical ratio
+3,4,5,6,7,8
+#non-critical ratio
+1,2,9,10
+
+round: 183
+#critical ratio
+3,4,5,6,7,9
+#non-critical ratio
+1,2,8,10
+
+round: 184
+#critical ratio
+3,4,5,6,7,10
+#non-critical ratio
+1,2,8,9
+
+round: 185
+#critical ratio
+3,4,5,6,8,9
+#non-critical ratio
+1,2,7,10
+
+round: 186
+#critical ratio
+3,4,5,6,8,10
+#non-critical ratio
+1,2,7,9
+
+round: 187
+#critical ratio
+3,4,5,6,9,10
+#non-critical ratio
+1,2,7,8
+
+round: 188
+#critical ratio
+3,4,5,7,8,9
+#non-critical ratio
+1,2,6,10
+
+round: 189
+#critical ratio
+3,4,5,7,8,10
+#non-critical ratio
+1,2,6,9
+
+round: 190
+#critical ratio
+3,4,5,7,9,10
+#non-critical ratio
+1,2,6,8
+
+round: 191
+#critical ratio
+3,4,5,8,9,10
+#non-critical ratio
+1,2,6,7
+
+round: 192
+#critical ratio
+3,4,6,7,8,9
+#non-critical ratio
+1,2,5,10
+
+round: 193
+#critical ratio
+3,4,6,7,8,10
+#non-critical ratio
+1,2,5,9
+
+round: 194
+#critical ratio
+3,4,6,7,9,10
+#non-critical ratio
+1,2,5,8
+
+round: 195
+#critical ratio
+3,4,6,8,9,10
+#non-critical ratio
+1,2,5,7
+
+round: 196
+#critical ratio
+3,4,7,8,9,10
+#non-critical ratio
+1,2,5,6
+
+round: 197
+#critical ratio
+3,5,6,7,8,9
+#non-critical ratio
+1,2,4,10
+
+round: 198
+#critical ratio
+3,5,6,7,8,10
+#non-critical ratio
+1,2,4,9
+
+round: 199
+#critical ratio
+3,5,6,7,9,10
+#non-critical ratio
+1,2,4,8
+
+round: 200
+#critical ratio
+3,5,6,8,9,10
+#non-critical ratio
+1,2,4,7
+
+round: 201
+#critical ratio
+3,5,7,8,9,10
+#non-critical ratio
+1,2,4,6
+
+round: 202
+#critical ratio
+3,6,7,8,9,10
+#non-critical ratio
+1,2,4,5
+
+round: 203
+#critical ratio
+4,5,6,7,8,9
+#non-critical ratio
+1,2,3,10
+
+round: 204
+#critical ratio
+4,5,6,7,8,10
+#non-critical ratio
+1,2,3,9
+
+round: 205
+#critical ratio
+4,5,6,7,9,10
+#non-critical ratio
+1,2,3,8
+
+round: 206
+#critical ratio
+4,5,6,8,9,10
+#non-critical ratio
+1,2,3,7
+
+round: 207
+#critical ratio
+4,5,7,8,9,10
+#non-critical ratio
+1,2,3,6
+
+round: 208
+#critical ratio
+4,6,7,8,9,10
+#non-critical ratio
+1,2,3,5
+
+round: 209
+#critical ratio
+5,6,7,8,9,10
+#non-critical ratio
+1,2,3,4

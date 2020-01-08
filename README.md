@@ -1,8 +1,7 @@
 # Aging Experiment
-[toc]
 # Summary:
 整個實驗分為2個目錄，分別是hspice_experiment和 multicore_experiment。有關hspice的實驗都在hspice_experiment目錄中，而有關multicore_experiment的實驗都在multicore_experiment目錄中。首先我們先介紹如何做hspice相關的實驗。
-![](https://i.imgur.com/DLsCScj.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/1.png)
 
 ## Hspice實驗步驟:
 第一步先進入hspice_experiment目錄中
@@ -10,7 +9,7 @@
 cd hspice_experiment
 ``
 看到的檔案如下圖所示，我們會分別做介紹
-![](https://i.imgur.com/FkmRV2e.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/2.png)
 - benchmark目錄中是放isca85跟itc99的電路檔案，包含.v檔和.sp檔
 - input_pattern目錄是放要餵進各個電路的input pattern，每組input pattern set相當於一個task
 - ncverilog目錄是利用ncverilog來產生電路在各個input pattern set所對應的output pattern set。目的是最後用來驗證hspice的模擬結果(.sp)是否跟ncverilog的結果(.v)一致
@@ -40,7 +39,7 @@ cd hspice_experiment
 - 第三個參數31是一組input pattern set中有幾個input pattern
 
 步驟一最後所隨機產生出的電路input pattern會存放在input pattern目錄中。
-![](https://i.imgur.com/qzZrlnX.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/3.png)
 每一個編號的.out檔都對應到一組input pattern set。下一個步驟我們要產生input pattern set所對應的output pattern set。
 
 ---
@@ -50,7 +49,7 @@ cd hspice_experiment
 cd ncverilog
 ``
 
-![](https://i.imgur.com/wPUGqi1.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/4.png)
 
 - INCA_libs目錄中存放執行ncverilog後所自動產生的檔案，並不重要
 - isca85_v目錄存放isca85電路的.v檔，供ncverilog模擬
@@ -70,7 +69,7 @@ cd ncverilog
 cd ../input_pattern
 ``
 我們會發現input pattern的目錄中多了output pattern相關的檔案，這些檔案是最後拿來驗證hspice的模擬結果是否跟ncverilog模擬的結果一致
-![](https://i.imgur.com/VNkxIwR.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/5.png)
 
 ---
 
@@ -90,7 +89,7 @@ cd test_header
 ``
 會在這個目錄下看到已經產生出電路在所有不同條件下所對應的spice檔案 (因為檔案非常多，因此只顯示出部分檔案)
 
-![](https://i.imgur.com/Zq11JKP.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/6.png)
 
 ---
 
@@ -111,7 +110,7 @@ cd ..
 在正常情況下，我們只需要使用Normal模式就好。但是hspice常常執行失敗或是當掉卡死，導致腳本沒辦法順利地繼續執行下去，因此我們需要Search模式來找出hspice在哪裡執行失敗或是在那裡當掉卡住之後，再從中斷點繼續執行下去。
 
 如果hspice在過程中不幸執行失敗或當掉卡死，我們就先打開這個run_hspice_new.log檔案
-![](https://i.imgur.com/6ptATab.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/7.png)
 
 正常來說如果hspice成功執行某一個case後，會出現以下提示
 
@@ -135,7 +134,7 @@ cd multicore_experiment
 ``
 
 在目錄下會看到
-![](https://i.imgur.com/TRbpkpp.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/8.png)
 
 - benchmark_profile 目錄存放電路在所有不同條件下的delay以及power資訊 (lookup table)
 - result 目錄存放最後multicore模擬出來原始的lifetime以及energy consumption資訊
@@ -151,15 +150,15 @@ cd multicore_experiment
 
 首先我們打開run_simulate.pl這個腳本
 
-![](https://i.imgur.com/lnStNDH.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/9.png)
 
 因為程式已經都自動化，所以我們只需要更改要模擬的電路，以及要模擬的policy就好。腳本中的第3行(line 3)是要模擬的電路，你可以任意增加要模擬的電路，例如改成下圖
 
-![](https://i.imgur.com/cRF4dMu.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/10.png)
 
 腳本中的第5到20行(line 5-20)是要模擬的policy。而在第4行(line 4)有每個policy所對應的編號，如果不要模擬某一個policy，我們只需要將迴圈中對應的policy註解掉就好。例如我們只想要模擬ROAD這個policy，那就將其他的都註解掉，如下圖。
 
-![](https://i.imgur.com/ldZTjMw.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/11.png)
 
 確認沒問題後，模擬時只需要執行以下這個command即可
 
@@ -169,21 +168,21 @@ cd multicore_experiment
 
 最後multicore的lifetime和energy模擬結果會放在result目錄中
 
-![](https://i.imgur.com/opABTP2.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/12.png)
 
 我們隨便打開某一個結果的log檔，可以看到總共有3個column
 
-![](https://i.imgur.com/l1IemC9.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/13.png)
 
 第一和第二個column為lifetime，差別只是年(year)跟秒(s)的單位不同而已。而第三個column為energy consumption，單位為瓦(watt)。
 
 由於數據非常多，因此不可能透過人工的方式去一個個打開來整理。為了方便看數據，我們透過腳本來自動化整理數據，我們先到final_result的目錄下
 
-![](https://i.imgur.com/kIoWiKb.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/14.png)
 
 執行run_final_result.pl這個腳本就會幫我們整理出最後的數據(final_result.csv)
 ``
 ./run_final_result.pl
 ``
-![](https://i.imgur.com/ImvKUX6.png)
+![](https://github.com/type59ty/aging-experiment/blob/master/figures/15.png)
 

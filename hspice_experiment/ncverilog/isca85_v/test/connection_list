@@ -1,0 +1,8 @@
+c17_testfixture
+c17/rand_input_vector_c17_0.out
+c17/rand_output_vector_c17_0.out
+5
+31
+n22, n23
+c17 c17_0 (.N1(vec[4]), .N2(vec[3]), .N3(vec[2]), .N6(vec[1]), .N7(vec[0]), .N22(n22), .N23(n23))
+n22, n23

@@ -19,7 +19,7 @@ my $number_of_task = $ARGV[1];
 
 
 my $trans_input_vec_file_name;
-my $input_dir = "../input_pattern";
+my $input_dir = "./input_pattern";
 
 # if dir. hspice_result doesn't exist, make the dir.
 if (-e "$input_dir/$benchmark_name"){

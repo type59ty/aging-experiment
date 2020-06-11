@@ -9,7 +9,7 @@ module c17_testfixture;
 `define out_file "c17/rand_output_vector_c17_0.out"
 
 parameter vec_width = 5;
-parameter vec_length = 16;
+parameter vec_length = 32;
 
 reg clk = 0;
 
